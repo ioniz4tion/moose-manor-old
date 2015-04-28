@@ -1,0 +1,152 @@
+@mixin transition($transition...) {
+    $max: length($transition);
+    $transitions: '';
+
+    @for $i from 1 through $max {
+        $transitions: #{$transitions + nth($transition, $i)};
+
+        @if $i < $max {
+            $transitions: #{$transitions + ", "};
+        }
+    }
+
+        -ms-transition: $transitions;
+    -webkit-transition: $transitions;
+       -moz-transition: $transitions;
+         -o-transition: $transitions;
+            transition: $transitions;
+}
+
+@mixin transform($transform) {
+	-ms-transform:     $transform;
+	-moz-transform:    $transform;
+	-webkit-transform: $transform;
+	-o-transform:      $transform;
+	transform:         $transform;
+}
+
+@mixin xy-center {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+
+	@include transform(translate(-50%, -50%));
+}
+
+body {
+	font-family: 'Maven Pro';
+}
+
+nav {
+	border: none !important;
+
+	a {
+		@include transition(all 0.3s);
+
+		&:hover {
+			background-color: #1e9cd7 !important;
+		}
+	}
+
+	ul.dropdown-menu {
+		@include transition(all 0.3s);
+	}
+}
+
+#carousel-example-generic {
+	margin-top: 50px;
+
+	ol li {
+		width: 12px;
+		height: 12px;
+		margin: 0 1px;
+
+		&:hover {
+			background: #000;
+		}
+
+		@include transition(all 0.3s);
+	}
+
+	img {
+		margin: 0 auto;
+	}
+}
+
+.carousel-control {
+	@include transition(all 0.3s);
+}
+
+.jumbotron {
+	padding-left: 60px;
+	padding-right: 60px;
+	margin-bottom: 0;
+}
+
+footer {
+	background: #000;
+	color: #fff;
+	text-align: center;
+	padding: 20px;
+
+	p {
+		margin: 0;
+	}
+}
+
+.login {
+	padding: 50px;
+	background: #a7a7a7;
+
+	@media (max-width: 800px) {
+		width: 100%;
+		height: 100%;
+	}
+
+	@media (min-width: 801px) {
+		@include xy-center;
+	}
+
+	.page-header h1 {
+		font-size: 40px !important;
+	}
+
+	.col-md-4,
+	.col-md-8 {
+		margin-bottom: 20px;
+
+		&:nth-child {
+			margin-bottom: 0;
+		}
+	}
+
+	p {
+		margin-bottom: 0;
+		line-height: 34px;
+		font-size: 20px;
+	}
+
+	.input-group {
+		* {
+			border: none;
+		}
+	}
+}
+
+#contact {
+	margin: 0 auto;
+	margin-top: 50px;
+	display: block;
+	width: 80%;
+	padding: 50px 0;
+	overflow-x: hidden;
+	overflow-y: auto;
+
+	textarea {
+		resize: vertical;
+	}
+
+	button {
+		float: right;
+	}
+}
