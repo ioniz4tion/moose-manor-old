@@ -1,5 +1,6 @@
 ﻿body {
-  font-family: 'Maven Pro'; }
+  font-family: 'Maven Pro';
+  background: #e7e7e7 url("../Images/ag-square.png"); }
 
 nav {
   border: none !important; }
@@ -20,7 +21,8 @@ nav {
     transition: all 0.3s; }
 
 #carousel-example-generic {
-  margin-top: 50px; }
+  margin-top: 50px;
+  background: #e7e7e7; }
   #carousel-example-generic ol li {
     width: 12px;
     height: 12px;
@@ -45,7 +47,8 @@ nav {
 .jumbotron {
   padding-left: 60px;
   padding-right: 60px;
-  margin-bottom: 0; }
+  margin-bottom: 0;
+  background: transparent; }
 
 footer {
   background: #000;

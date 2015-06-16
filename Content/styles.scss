@@ -35,6 +35,7 @@
 
 body {
 	font-family: 'Maven Pro';
+	background: #e7e7e7 url('../Images/ag-square.png');
 }
 
 nav {
@@ -57,6 +58,7 @@ nav {
 
 #carousel-example-generic {
 	margin-top: 50px;
+    background: #e7e7e7;
 
 	ol li {
 		width: 12px;
@@ -83,6 +85,7 @@ nav {
 	padding-left: 60px;
 	padding-right: 60px;
 	margin-bottom: 0;
+    background: transparent;
 }
 
 footer {
