@@ -40,3 +40,43 @@ c:\users\zack holbrook\documents\visual studio 2012\Projects\Moose-Manor\Moose-M
 c:\users\zack holbrook\documents\visual studio 2012\Projects\Moose-Manor\Moose-Manor\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
 c:\users\zack holbrook\documents\visual studio 2012\Projects\Moose-Manor\Moose-Manor\obj\Debug\Moose-Manor.dll
 c:\users\zack holbrook\documents\visual studio 2012\Projects\Moose-Manor\Moose-Manor\obj\Debug\Moose-Manor.pdb
+F:\Documents\Visual Studio 2013\Projects\moose-manor\bin\Moose-Manor.dll.config
+F:\Documents\Visual Studio 2013\Projects\moose-manor\bin\Moose-Manor.dll
+F:\Documents\Visual Studio 2013\Projects\moose-manor\bin\Moose-Manor.pdb
+F:\Documents\Visual Studio 2013\Projects\moose-manor\bin\Microsoft.Web.Infrastructure.dll
+F:\Documents\Visual Studio 2013\Projects\moose-manor\bin\Microsoft.Web.WebPages.OAuth.dll
+F:\Documents\Visual Studio 2013\Projects\moose-manor\bin\Newtonsoft.Json.dll
+F:\Documents\Visual Studio 2013\Projects\moose-manor\bin\System.Net.Http.Formatting.dll
+F:\Documents\Visual Studio 2013\Projects\moose-manor\bin\System.Web.Helpers.dll
+F:\Documents\Visual Studio 2013\Projects\moose-manor\bin\System.Web.Http.dll
+F:\Documents\Visual Studio 2013\Projects\moose-manor\bin\System.Web.Http.WebHost.dll
+F:\Documents\Visual Studio 2013\Projects\moose-manor\bin\System.Web.Mvc.dll
+F:\Documents\Visual Studio 2013\Projects\moose-manor\bin\System.Web.Razor.dll
+F:\Documents\Visual Studio 2013\Projects\moose-manor\bin\System.Web.WebPages.Deployment.dll
+F:\Documents\Visual Studio 2013\Projects\moose-manor\bin\System.Web.WebPages.dll
+F:\Documents\Visual Studio 2013\Projects\moose-manor\bin\System.Web.WebPages.Razor.dll
+F:\Documents\Visual Studio 2013\Projects\moose-manor\bin\WebMatrix.Data.dll
+F:\Documents\Visual Studio 2013\Projects\moose-manor\bin\WebMatrix.WebData.dll
+F:\Documents\Visual Studio 2013\Projects\moose-manor\bin\EntityFramework.xml
+F:\Documents\Visual Studio 2013\Projects\moose-manor\bin\Microsoft.Web.Infrastructure.xml
+F:\Documents\Visual Studio 2013\Projects\moose-manor\bin\System.Net.Http.Formatting.xml
+F:\Documents\Visual Studio 2013\Projects\moose-manor\bin\System.Web.Helpers.xml
+F:\Documents\Visual Studio 2013\Projects\moose-manor\bin\System.Web.Http.xml
+F:\Documents\Visual Studio 2013\Projects\moose-manor\bin\System.Web.Http.WebHost.xml
+F:\Documents\Visual Studio 2013\Projects\moose-manor\bin\System.Web.Mvc.xml
+F:\Documents\Visual Studio 2013\Projects\moose-manor\bin\System.Web.Razor.xml
+F:\Documents\Visual Studio 2013\Projects\moose-manor\bin\System.Web.WebPages.xml
+F:\Documents\Visual Studio 2013\Projects\moose-manor\bin\System.Web.WebPages.Deployment.xml
+F:\Documents\Visual Studio 2013\Projects\moose-manor\bin\System.Web.WebPages.Razor.xml
+F:\Documents\Visual Studio 2013\Projects\moose-manor\bin\WebMatrix.Data.xml
+F:\Documents\Visual Studio 2013\Projects\moose-manor\bin\Microsoft.Web.WebPages.OAuth.xml
+F:\Documents\Visual Studio 2013\Projects\moose-manor\bin\WebMatrix.WebData.xml
+F:\Documents\Visual Studio 2013\Projects\moose-manor\bin\DotNetOpenAuth.AspNet.xml
+F:\Documents\Visual Studio 2013\Projects\moose-manor\bin\DotNetOpenAuth.Core.xml
+F:\Documents\Visual Studio 2013\Projects\moose-manor\bin\DotNetOpenAuth.OAuth.Consumer.xml
+F:\Documents\Visual Studio 2013\Projects\moose-manor\bin\DotNetOpenAuth.OAuth.xml
+F:\Documents\Visual Studio 2013\Projects\moose-manor\bin\DotNetOpenAuth.OpenId.xml
+F:\Documents\Visual Studio 2013\Projects\moose-manor\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+F:\Documents\Visual Studio 2013\Projects\moose-manor\obj\Debug\Moose-Manor.csprojResolveAssemblyReference.cache
+F:\Documents\Visual Studio 2013\Projects\moose-manor\obj\Debug\Moose-Manor.dll
+F:\Documents\Visual Studio 2013\Projects\moose-manor\obj\Debug\Moose-Manor.pdb
